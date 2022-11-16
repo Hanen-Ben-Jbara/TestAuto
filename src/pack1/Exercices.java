@@ -4,7 +4,8 @@ import java.util.Scanner;
 
 public class Exercices {
 	public static void main(String[] args) {
-		int a, b, c, delta, X1, X2, X3 = 0;
+//test git 2		
+int a, b, c, delta, X1, X2, X3 = 0;
 		Scanner input = new Scanner(System.in);
 		System.out.println("a = ");
 		 	a = input.nextInt();
