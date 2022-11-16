@@ -5,7 +5,7 @@ import java.util.Scanner;
 public class Boucles {
 
 	public static void main(String[] args) {
-		
+		//test git
 		Scanner input = new Scanner(System.in);
 		System.out.println("choisir un exercice : \n1: Ex 1 \n2: Ex 2  \n3: Ex 3 \n4: Ex 4 \n5: Ex 5 \n6: Ex 6 \n7: Ex 7");
 		int Ex = input.nextInt();
