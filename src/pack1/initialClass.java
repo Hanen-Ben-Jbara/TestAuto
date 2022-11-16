@@ -8,6 +8,7 @@ public class initialClass {
 	public static void main(String[] args) 
 		
 	{
+//commentaire
 		Scanner input = new Scanner(System.in);
 		System.out.println("choisir un exercice : \n1: Ex 1 \n2: Ex 2  \n3: Ex 3 ");
 			int Ex= input.nextInt();
